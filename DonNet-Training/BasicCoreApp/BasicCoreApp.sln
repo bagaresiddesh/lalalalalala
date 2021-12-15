@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicCoreApp", "BasicCoreApp.csproj", "{56158DCF-6942-4EC1-B8A8-FC2065E8E612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicMVC", "..\BasicMVC\BasicMVC.csproj", "{129EE892-9D3B-48FB-BE8E-BA974CFC264D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56158DCF-6942-4EC1-B8A8-FC2065E8E612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56158DCF-6942-4EC1-B8A8-FC2065E8E612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56158DCF-6942-4EC1-B8A8-FC2065E8E612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56158DCF-6942-4EC1-B8A8-FC2065E8E612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{129EE892-9D3B-48FB-BE8E-BA974CFC264D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129EE892-9D3B-48FB-BE8E-BA974CFC264D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129EE892-9D3B-48FB-BE8E-BA974CFC264D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129EE892-9D3B-48FB-BE8E-BA974CFC264D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FF4B343-F294-4812-85C9-0B3C92228E9A}
+	EndGlobalSection
+EndGlobal
